@@ -8,17 +8,18 @@ import {
 } from 'react-router-dom';
 import Books from './Books';
 import Addform from './AddForm';
+import Categories from './Categories';
 
 function App() {
   return (
     <Router>
       <nav>
-        <Link className="navLink" to="/">Link#1</Link>
-        <Link className="navLink" to="/">Link#2</Link>
+        <Link className="navLink" to="/Home">Link#1</Link>
+        <Link className="navLink" to="/Add-Form">Link#2</Link>
       </nav>
       <Books />
       <Addform />
-      <button type="button">Check status</button>
+      <Categories />
       <Routes>
         <Route path="/" element={<></>} />
       </Routes>
