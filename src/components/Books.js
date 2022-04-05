@@ -1,4 +1,4 @@
-import Book from './Book';
+import Book from '../Book';
 
 const Books = () => (
   <div className="booksContaner">
