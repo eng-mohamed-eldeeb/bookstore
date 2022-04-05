@@ -1,4 +1,4 @@
-export const ADD_BOOK = 'bookStore/src/redux/book/ADD_BOOL';
+export const ADD_BOOK = 'bookStore/src/redux/book/ADD_BOOK';
 export const REMOVE_BOOK = 'bookStore/src/redux/book/REMOVE_BOOK';
 
 export default function bookReducer(state = [], action) {
