@@ -1,4 +1,4 @@
-const CHECK_STATUS = 'CHECK_STATUS';
+const CHECK_STATUS = 'bookStore/src/redux/categories/CHECK_STATUS';
 export default function categoriesReducer(state = [], action) {
   switch (action.type) {
     case CHECK_STATUS:

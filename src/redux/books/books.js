@@ -1,5 +1,5 @@
-export const ADD_BOOK = 'addBook';
-export const REMOVE_BOOK = 'removeBook';
+export const ADD_BOOK = 'bookStore/src/redux/book/ADD_BOOL';
+export const REMOVE_BOOK = 'bookStore/src/redux/book/REMOVE_BOOK';
 
 export default function bookReducer(state = [], action) {
   switch (action.type) {
