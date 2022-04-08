@@ -1,5 +1,5 @@
 import { useDispatch } from 'react-redux';
-import { checkStatus } from './redux/categories/categories'
+import { checkStatus } from './redux/categories/categories';
 
 const Categoriess = () => {
   const dispatch = useDispatch();
