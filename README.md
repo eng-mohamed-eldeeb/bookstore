@@ -1,6 +1,6 @@
 ## Math magicians Project
 
-> it a class based component for a calcluator
+> it a use Redux in React components for a form for book store.
 
 ## Screenshot
 

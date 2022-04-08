@@ -8,7 +8,7 @@ import {
 } from 'react-router-dom';
 import Books from './components/Books';
 import Addform from './AddForm';
-import Categories from './Categories';
+import Categories from './components/categories';
 
 function App() {
   return (
