@@ -8,7 +8,6 @@
 
 ## Live Demo
 
-[Live Demo Link](https://eng-mohamed-eldeeb.github.io/Math_Magicians/)
 
 ## Clone and review it
 
