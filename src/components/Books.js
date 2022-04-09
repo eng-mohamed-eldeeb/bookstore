@@ -53,14 +53,14 @@ const Books = () => {
             type="text"
             placeholder="Add new book..."
             name="title"
-            id="title"
+            className="title"
             required
           />
           <input
             type="text"
             placeholder="author..."
             name="author"
-            id="author"
+            className="title"
             required
           />
           <select

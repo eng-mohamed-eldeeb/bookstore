@@ -17,7 +17,7 @@ const Header = () => (
         </ul>
       </div>
       <div className="userAvatar">
-        <img alt="User Avatar" />
+        <img alt="User Avatar" src="../img/user-avatar.png" />
       </div>
     </nav>
   </header>
