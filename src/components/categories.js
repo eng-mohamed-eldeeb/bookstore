@@ -1,7 +1,7 @@
 const Categories = () => (
-  <div className="categories">
-    <h1>Under construction</h1>
-  </div>
+  <>
+    <h2>categories Under construction</h2>
+  </>
 );
 
 export default Categories;

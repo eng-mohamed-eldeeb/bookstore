@@ -1,6 +1,6 @@
 ## Math magicians Project
 
-> it a use Redux in React components for a form for book store.
+> it a use Redux to fetch data.
 
 ## Screenshot
 
@@ -8,6 +8,8 @@
 
 ## Live Demo
 
+## API link
+[API link](https://us-central1-bookstore-api-e63c8.cloudfunctions.net/bookstoreApi/apps/HIfCVUlQOtaAt6fiFqBM/books/)
 
 ## Clone and review it
 
