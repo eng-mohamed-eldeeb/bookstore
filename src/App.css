@@ -140,10 +140,10 @@ form {
 .formContainer {
   height: 3rem;
   margin-top: 1.2rem;
-  gap: 2.2rem;
+  gap: 1.2rem;
 }
 
-#title,
+.title,
 #category {
   height: 100%;
   padding: 0 1rem;
