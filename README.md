@@ -1,6 +1,6 @@
 ## Math magicians Project
 
-> it a use Redux in React components for a form for book store.
+> it a use Redux to fetch data.
 
 ## Screenshot
 
